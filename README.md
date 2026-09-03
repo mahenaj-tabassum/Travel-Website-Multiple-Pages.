@@ -1,3 +1,4 @@
 # Travel-Website-Multiple-Pages.
-author: MahenajT
-Live Demo: https://tourhelper.netlify.app/
+---
+## Live Demo: https://tourhelper.netlify.app/
+---
